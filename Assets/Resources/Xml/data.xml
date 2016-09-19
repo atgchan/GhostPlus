@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GhostSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Ghost>
+    <Level>1</Level>
+    <Name>Ghost</Name>
+    <EarnMoney>1</EarnMoney>
+    <Description>The simplest ghost that you can find anywhere around the tombs.</Description>
+  </Ghost>
+  <Ghost>
+    <Level>2</Level>
+    <Name>Ghost2</Name>
+    <EarnMoney>2</EarnMoney>
+    <Description>A little bit more scary ghost.</Description>
+  </Ghost>
+  <Ghost>
+    <Level>3</Level>
+    <Name>Ghost3</Name>
+    <EarnMoney>3</EarnMoney>
+    <Description>The ghost of a twin.</Description>
+  </Ghost>
+  <Ghost>
+    <Level>4</Level>
+    <Name>Ghost4</Name>
+    <EarnMoney>4</EarnMoney>
+    <Description>Slimmy Ghost!</Description>
+  </Ghost>
+</GhostSet>

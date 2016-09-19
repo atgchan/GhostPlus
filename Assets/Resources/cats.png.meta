@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: dd1988549dfe9c147a379c2c15bc89be
+timeCreated: 1468682399
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cats_0
+    21300002: cats_1
+    21300004: cats_2
+    21300006: cats_3
+    21300008: cats_4
+    21300010: cats_5
+    21300012: cats_6
+    21300014: cats_7
+    21300016: cats_8
+    21300018: cats_9
+    21300020: cats_10
+    21300022: cats_11
+    21300024: cats_12
+    21300026: cats_13
+    21300028: cats_14
+    21300030: cats_15
+    21300032: cats_16
+    21300034: cats_17
+    21300036: cats_18
+    21300038: cats_19
+    21300040: cats_20
+    21300042: cats_21
+    21300044: cats_22
+    21300046: cats_23
+    21300048: cats_24
+    21300050: cats_25
+    21300052: cats_26
+    21300054: cats_27
+    21300056: cats_28
+    21300058: cats_29
+    21300060: cats_30
+    21300062: cats_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cats_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 471
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 30.5}
+        - {x: -30, y: 23.5}
+        - {x: -30, y: -5.5}
+        - {x: -21, y: -30.5}
+        - {x: 24, y: -30.5}
+        - {x: 30, y: -20.5}
+        - {x: 30, y: 26.5}
+        - {x: 25, y: 30.5}
+    - name: cats_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 471
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 33}
+        - {x: -30, y: 27}
+        - {x: -30, y: -14}
+        - {x: -27, y: -32}
+        - {x: -24, y: -33}
+        - {x: 29, y: -33}
+        - {x: 30, y: -32}
+        - {x: 30, y: 21}
+        - {x: 17, y: 33}
+    - name: cats_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 471
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 30.5}
+        - {x: -31, y: 30.5}
+        - {x: -31, y: -2.5}
+        - {x: -20, y: -26.5}
+        - {x: -18, y: -30.5}
+        - {x: 24, y: -30.5}
+        - {x: 25, y: -28.5}
+        - {x: 31, y: -18.5}
+        - {x: 31, y: 27.5}
+    - name: cats_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 471
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 30.5}
+        - {x: -30.5, y: 22.5}
+        - {x: -30.5, y: -12.5}
+        - {x: -26.5, y: -29.5}
+        - {x: -23.5, y: -30.5}
+        - {x: 24.5, y: -30.5}
+        - {x: 30.5, y: -25.5}
+        - {x: 30.5, y: 22.5}
+        - {x: 19.5, y: 30.5}
+    - name: cats_4
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 470
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 31}
+        - {x: -27, y: 31}
+        - {x: -30, y: 28}
+        - {x: -30, y: -31}
+        - {x: 23, y: -31}
+        - {x: 30, y: -17}
+        - {x: 30, y: 16}
+        - {x: 26, y: 20}
+    - name: cats_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 471
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 31.5}
+        - {x: -28.5, y: 31.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -30.5, y: -4.5}
+        - {x: -21.5, y: -27.5}
+        - {x: -17.5, y: -31.5}
+        - {x: 14.5, y: -31.5}
+        - {x: 28.5, y: -24.5}
+        - {x: 30.5, y: -16.5}
+        - {x: 30.5, y: 19.5}
+    - name: cats_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 384
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 31}
+        - {x: -32, y: 24}
+        - {x: -32, y: -7}
+        - {x: -26, y: -28}
+        - {x: -25, y: -31}
+        - {x: 18, y: -31}
+        - {x: 32, y: -22}
+        - {x: 32, y: 15}
+        - {x: 18, y: 31}
+      - - {x: -29, y: -8}
+        - {x: -26, y: -7}
+        - {x: -26, y: -4}
+        - {x: -29, y: -3}
+        - {x: -31, y: -5}
+    - name: cats_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 31}
+        - {x: -28.5, y: 31}
+        - {x: -30.5, y: 27}
+        - {x: -30.5, y: -16}
+        - {x: -28.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 30.5, y: -23}
+        - {x: 30.5, y: 17}
+    - name: cats_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 31}
+        - {x: -30, y: 31}
+        - {x: -30, y: -22}
+        - {x: -23, y: -31}
+        - {x: 29, y: -31}
+        - {x: 30, y: -27}
+        - {x: 30, y: 26}
+    - name: cats_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 384
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 31}
+        - {x: -30.5, y: 26}
+        - {x: -30.5, y: -15}
+        - {x: -26.5, y: -29}
+        - {x: -24.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 30.5, y: -21}
+        - {x: 30.5, y: 18}
+        - {x: 18.5, y: 31}
+    - name: cats_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 384
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -30, y: 29}
+        - {x: -30, y: -31}
+        - {x: 26, y: -31}
+        - {x: 30, y: -23}
+        - {x: 30, y: 18}
+        - {x: 16, y: 31}
+    - name: cats_11
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 384
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 31}
+        - {x: -30.5, y: 31}
+        - {x: -30.5, y: -31}
+        - {x: 12.5, y: -31}
+        - {x: 27.5, y: -23}
+        - {x: 30.5, y: -15}
+        - {x: 30.5, y: 21}
+    - name: cats_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 298
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: -31}
+        - {x: 27, y: -31}
+        - {x: 30, y: -20}
+        - {x: 30, y: 24}
+        - {x: 17, y: 31}
+    - name: cats_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 298
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 31}
+        - {x: -28, y: 31}
+        - {x: -30, y: 26}
+        - {x: -30, y: -14}
+        - {x: -29, y: -30}
+        - {x: -27, y: -31}
+        - {x: 20, y: -31}
+        - {x: 30, y: -23}
+        - {x: 30, y: 16}
+    - name: cats_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 298
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 22.5}
+        - {x: 10, y: 32.5}
+        - {x: -30, y: 32.5}
+        - {x: -30, y: -11.5}
+        - {x: -21, y: -28.5}
+        - {x: -17, y: -32.5}
+        - {x: 19, y: -32.5}
+        - {x: 26, y: -22.5}
+        - {x: 30, y: -16.5}
+      - - {x: 1, y: 30.5}
+        - {x: 1, y: 32.5}
+        - {x: -4, y: 32.5}
+        - {x: -2, y: 29.5}
+    - name: cats_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 298
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 31}
+        - {x: -30.5, y: 24}
+        - {x: -30.5, y: -5}
+        - {x: -21.5, y: -31}
+        - {x: 18.5, y: -31}
+        - {x: 30.5, y: -20}
+        - {x: 30.5, y: 17}
+        - {x: 14.5, y: 31}
+    - name: cats_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 298
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -30, y: 23}
+        - {x: -30, y: -13}
+        - {x: -25, y: -31}
+        - {x: 21, y: -31}
+        - {x: 30, y: -29}
+        - {x: 30, y: 23}
+        - {x: 14, y: 31}
+    - name: cats_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 296
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 31}
+        - {x: -30.5, y: 26}
+        - {x: -30.5, y: -8}
+        - {x: -22.5, y: -31}
+        - {x: 22.5, y: -31}
+        - {x: 30.5, y: -25}
+        - {x: 30.5, y: 20}
+        - {x: 22.5, y: 31}
+    - name: cats_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 210
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 32}
+        - {x: -30.5, y: 29}
+        - {x: -30.5, y: -13}
+        - {x: -23.5, y: -32}
+        - {x: 18.5, y: -32}
+        - {x: 30.5, y: -30}
+        - {x: 30.5, y: 21}
+        - {x: 17.5, y: 32}
+      - - {x: 19.5, y: 21}
+        - {x: 21.5, y: 19}
+        - {x: 24.5, y: 20}
+        - {x: 24.5, y: 23}
+        - {x: 22.5, y: 25}
+        - {x: 19.5, y: 24}
+    - name: cats_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 212
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 31.5}
+        - {x: -30.5, y: 21.5}
+        - {x: -30.5, y: -4.5}
+        - {x: -18.5, y: -31.5}
+        - {x: 19.5, y: -31.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 30.5, y: 24.5}
+        - {x: 16.5, y: 31.5}
+    - name: cats_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 212
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: -16}
+        - {x: -24, y: -29}
+        - {x: -19, y: -31}
+        - {x: 30, y: -31}
+        - {x: 30, y: 31}
+    - name: cats_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 212
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 31}
+        - {x: -30.5, y: -16}
+        - {x: -27.5, y: -31}
+        - {x: 20.5, y: -31}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 28}
+        - {x: 19.5, y: 31}
+    - name: cats_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 206
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -34}
+        - {x: -19, y: -31}
+        - {x: -26, y: -31}
+        - {x: -27, y: -34}
+      - - {x: -15, y: -34}
+        - {x: -11, y: -34}
+        - {x: -11, y: -31}
+        - {x: -14, y: -30}
+        - {x: -16, y: -32}
+      - - {x: 7, y: -34}
+        - {x: 7, y: -32}
+        - {x: 4, y: -31}
+        - {x: 2, y: -34}
+      - - {x: -30, y: 34}
+        - {x: -30, y: -4}
+        - {x: -22, y: -30}
+        - {x: 29, y: -30}
+        - {x: 30, y: -28}
+        - {x: 30, y: 34}
+    - name: cats_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 212
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 31}
+        - {x: -30.5, y: 31}
+        - {x: -30.5, y: -7}
+        - {x: -19.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 30.5, y: -18}
+        - {x: 30.5, y: 28}
+    - name: cats_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 126
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 31}
+        - {x: -30, y: 22}
+        - {x: -30, y: -5}
+        - {x: -19, y: -31}
+        - {x: 27, y: -31}
+        - {x: 30, y: -23}
+        - {x: 30, y: 23}
+        - {x: 14, y: 31}
+    - name: cats_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -35}
+        - {x: -23.5, y: -35}
+        - {x: -24.5, y: -32}
+        - {x: -31.5, y: -32}
+      - - {x: -31.5, y: 33}
+        - {x: -31.5, y: -26}
+        - {x: -23.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 31.5, y: -18}
+        - {x: 31.5, y: 24}
+        - {x: 13.5, y: 33}
+      - - {x: 12.5, y: -35}
+        - {x: 11.5, y: -32}
+        - {x: 6.5, y: -32}
+        - {x: 5.5, y: -35}
+      - - {x: -2.5, y: 35}
+        - {x: -2.5, y: 33}
+        - {x: -0.5, y: 31}
+        - {x: 0.5, y: 31}
+        - {x: 3.5, y: 34}
+        - {x: 3.5, y: 35}
+    - name: cats_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 31}
+        - {x: -30.5, y: 26}
+        - {x: -30.5, y: -11}
+        - {x: -24.5, y: -31}
+        - {x: 21.5, y: -31}
+        - {x: 30.5, y: -29}
+        - {x: 30.5, y: 20}
+        - {x: 14.5, y: 31}
+    - name: cats_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 126
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 31}
+        - {x: -30.5, y: -15}
+        - {x: -27.5, y: -31}
+        - {x: 30.5, y: -31}
+        - {x: 30.5, y: 31}
+    - name: cats_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 127
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 31.5}
+        - {x: -29.5, y: 31.5}
+        - {x: -30.5, y: 29.5}
+        - {x: -30.5, y: -31.5}
+        - {x: 27.5, y: -31.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 30.5, y: 21.5}
+    - name: cats_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 126
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 31}
+        - {x: -30.5, y: 23}
+        - {x: -30.5, y: -5}
+        - {x: -21.5, y: -31}
+        - {x: 20.5, y: -31}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 20}
+        - {x: 24.5, y: 31}
+    - name: cats_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 39
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 31.5}
+        - {x: -31.5, y: 25.5}
+        - {x: -31.5, y: -16.5}
+        - {x: -26.5, y: -30.5}
+        - {x: -24.5, y: -31.5}
+        - {x: 23.5, y: -31.5}
+        - {x: 31.5, y: -25.5}
+        - {x: 31.5, y: 21.5}
+        - {x: 26.5, y: 31.5}
+    - name: cats_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 35
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: -33.5}
+        - {x: -13.5, y: -30.5}
+        - {x: -17.5, y: -30.5}
+        - {x: -18.5, y: -33.5}
+      - - {x: -7.5, y: -33.5}
+        - {x: -7.5, y: -31.5}
+        - {x: -10.5, y: -30.5}
+        - {x: -12.5, y: -33.5}
+      - - {x: 19.5, y: -28.5}
+        - {x: 30.5, y: -12.5}
+        - {x: 30.5, y: 17.5}
+        - {x: 13.5, y: 33.5}
+        - {x: -29.5, y: 33.5}
+        - {x: -30.5, y: 32.5}
+        - {x: -30.5, y: -14.5}
+        - {x: -27.5, y: -28.5}
+        - {x: -4.5, y: -33.5}
+        - {x: 7.5, y: -33.5}
+        - {x: 7.5, y: -31.5}
+        - {x: 4.5, y: -30.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
